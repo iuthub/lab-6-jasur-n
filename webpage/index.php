@@ -18,7 +18,7 @@
 		<dl>
 			<dt>Name</dt>
 			<dd>
-				???
+				Thank you!
 			</dd>
 			
 			<!-- Write other fiels similar to Name as specified in lab6.pdf -->
